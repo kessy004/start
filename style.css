@@ -1,0 +1,194 @@
+
+body{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 40px;
+  width: 100%;
+  border: 1px solid rgb(140, 54, 252) ;
+  background-color: black;
+
+  
+ 
+}
+
+.topicon ul{
+   list-style: none;
+   float: left;
+   margin: 0;
+   padding-left: 0;
+   color: white;
+}
+
+ul li{
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  
+}
+
+.bond ul{
+    float: right;
+    padding-left: 20px;
+    padding-right: 10px;
+    color: white;
+}
+
+.bond ul input{
+  background-color:rgba(105, 105, 105, 0.521);
+  width: 6em;
+  border-color: rgba(105, 105, 105, 0);
+  border-width: 1px;
+  
+  
+}
+
+.one{
+  font-weight: bold;
+}
+
+.two{
+    
+border-inline: 1px solid;
+line-height: 2px;
+
+  
+     
+}
+
+.three{
+  border-inline-end:solid;
+  border-width: thin;
+  line-height: 2px;
+  
+  
+}
+
+
+.two a {
+  text-decoration: none;
+}
+
+.three a{
+  text-decoration: none;
+}
+
+.fourth a {
+  text-decoration: none;
+}
+
+.design{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 10%;
+  font-size: xx-large;
+  
+}
+
+.box input{
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  height: 30px;
+  margin-left: 35%;
+  outline: none;
+  border-radius: 50px;
+}
+
+
+
+.box form {
+  position: relative;
+  
+}
+
+
+
+.box form label.search{
+  position: absolute;
+  left: 36%;
+  top: 10px;
+  
+  
+}
+
+.box form label.search i{
+  color: #999999;
+}
+
+.box form label.mic{
+  position: absolute;
+    right: 31%;
+    top: 10px;
+    
+
+}
+
+#emaillogo{
+  padding-left: 30px;
+  padding-right: 40px;
+  
+  
+}
+
+.button{
+  text-align: center;
+  margin-top: 15px;
+  justify-content: center;
+  margin-left: 30px;
+}
+
+.button #nav{
+  background-color: blue;
+  color: white;
+  border: 2px solid blue;
+  font-family: 'Times New Roman', Times, serif;
+  margin: 7px;
+}
+
+.button #nav1 {
+  background-color: blue;
+  color: white;
+  border: 2px solid blue;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+a{
+  color: white;
+}
+
+.footer{
+  position: absolute;
+  bottom: 0;
+  right: 30%;
+  margin-bottom: 95px;
+  padding: 40px;
+  justify-content: space-between;
+  text-align: center;
+  
+}
+
+.footer #first{
+  margin: 10px;
+}
+
+.footer #second{
+  margin: 10px;
+}
+
+.footer #third {
+  margin: 10px;
+}
+
+
+.footer #fourth {
+  margin: 10px;
+}
+
+.footer #fifth {
+  margin: 10px;
+}
+
+
